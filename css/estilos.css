@@ -25,7 +25,6 @@ body {
     padding: 20px;
     width: 40%;
     text-align: center;
-    background: #fff;
     color: #000;
     font-size: 20px;
     font-weight: bold;
@@ -48,4 +47,15 @@ body {
     border: 1px solid #3a3939;
     background: #fff;
     margin: 0px;
+}
+
+.footer {
+    background-color: cornflowerblue;
+    text-align: center;
+    color: #000;
+    font-size: 20px;
+    text-shadow: 2px 2px #7f7c7c;
+    padding: 20px;
+    width: 40%;
+    border: 1px solid #3a3939;
 }
