@@ -51,20 +51,8 @@ body {
     margin: 0px;
 }
 
-<<<<<<< HEAD
 .post h1 {
     color: cornflowerblue;
     text-shadow: 2px 2px #000000;
     margin: 0px;
-=======
-.footer {
-    background-color: cornflowerblue;
-    text-align: center;
-    color: #000;
-    font-size: 20px;
-    text-shadow: 2px 2px #7f7c7c;
-    padding: 20px;
-    width: 40%;
-    border: 1px solid #3a3939;
->>>>>>> footer
 }
