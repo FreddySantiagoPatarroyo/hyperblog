@@ -1,7 +1,7 @@
 # Todo lo que podemos hacer con .md (markdown)
 
 ## Este link nos llevara a una pagina para poder editar archivos .md de manera facil
-[Links](https://pandao.github.io/editor.md/en.html)
+[pandao.github.io](https://pandao.github.io/editor.md/en.html)
 ### Features
 
 - Support Standard Markdown / CommonMark and GFM(GitHub Flavored Markdown);
