@@ -1,0 +1,5 @@
+#con el * idiciamos que ignore todos los archivos que cumplan con la extencion puesta, en este casi ignora todos los jpg
+*.jpg
+
+#de esta forma de indicamos que ignore un archivo en especifico
+imagenes/Platzi.jpg
