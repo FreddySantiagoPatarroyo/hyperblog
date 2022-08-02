@@ -6,10 +6,6 @@ Experimento 2
 
 Master 1
 
-<<<<<<< HEAD
 Master 2
 
 FreddyPatarroyo - No es colaborador pero va a contribuir al proyecto
-=======
-FreddyPatarroyo - No es colaborador pero va a contribuir al proyecto
->>>>>>> d9d959b (experimento 1)
